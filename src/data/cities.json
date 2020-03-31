@@ -1,0 +1,123 @@
+[
+    {
+        "GMT": "-10",
+        "cityId": 1,
+        "codeIataCity": "AAA",
+        "codeIso2Country": "PF",
+        "geonameId": 0,
+        "latitudeCity": -17.05,
+        "longitudeCity": -145.41667,
+        "nameCity": "Anaa",
+        "timezone": "Pacific/Tahiti"
+    },
+    {
+        "GMT": "10",
+        "cityId": 2,
+        "codeIataCity": "AAB",
+        "codeIso2Country": "AU",
+        "geonameId": 0,
+        "latitudeCity": -26.7,
+        "longitudeCity": 141.04167,
+        "nameCity": "Arrabury",
+        "timezone": "Australia/Brisbane"
+    },
+    {
+        "GMT": "2",
+        "cityId": 3,
+        "codeIataCity": "AAC",
+        "codeIso2Country": "EG",
+        "geonameId": 361546,
+        "latitudeCity": 31.133333,
+        "longitudeCity": 33.75,
+        "nameCity": "El Arish",
+        "timezone": "Africa/Cairo"
+    },
+    {
+        "GMT": "1",
+        "cityId": 4,
+        "codeIataCity": "AAE",
+        "codeIso2Country": "DZ",
+        "geonameId": 2506999,
+        "latitudeCity": 36.821392,
+        "longitudeCity": 7.811857,
+        "nameCity": "Annaba",
+        "timezone": "Africa/Algiers"
+    },
+    {
+        "GMT": "-6",
+        "cityId": 5,
+        "codeIataCity": "AAF",
+        "codeIso2Country": "US",
+        "geonameId": 4167695,
+        "latitudeCity": 29.733334,
+        "longitudeCity": -84.98333,
+        "nameCity": "Apalachicola",
+        "timezone": "America/Chicago"
+    },
+    {
+        "GMT": "-3",
+        "cityId": 6,
+        "codeIataCity": "AAG",
+        "codeIso2Country": "BR",
+        "geonameId": 3471795,
+        "latitudeCity": -24.103611,
+        "longitudeCity": -49.79,
+        "nameCity": "Arapoti",
+        "timezone": "America/Sao_Paulo"
+    },
+    {
+        "GMT": "1",
+        "cityId": 7,
+        "codeIataCity": "AAH",
+        "codeIso2Country": "DE",
+        "geonameId": 3247449,
+        "latitudeCity": 50.775438,
+        "longitudeCity": 6.08151,
+        "nameCity": "Aachen",
+        "timezone": "Europe/Berlin"
+    },
+    {
+        "GMT": "-3",
+        "cityId": 8,
+        "codeIataCity": "AAI",
+        "codeIso2Country": "BR",
+        "geonameId": 0,
+        "latitudeCity": -12.916667,
+        "longitudeCity": -46.933334,
+        "nameCity": "Arraias",
+        "timezone": "America/Araguaina"
+    },
+    {
+        "GMT": "-3",
+        "cityId": 9,
+        "codeIataCity": "AAJ",
+        "codeIso2Country": "SR",
+        "geonameId": 0,
+        "latitudeCity": 3.9,
+        "longitudeCity": -55.36667,
+        "nameCity": "Awaradam",
+        "timezone": "America/Paramaribo"
+    },
+    {
+        "GMT": "12",
+        "cityId": 10,
+        "codeIataCity": "AAK",
+        "codeIso2Country": "KI",
+        "geonameId": 0,
+        "latitudeCity": 0.166667,
+        "longitudeCity": 173.58333,
+        "nameCity": "Aranuka",
+        "timezone": "Pacific/Tarawa"
+    },
+    {
+        "GMT": "1",
+        "cityId": 11,
+        "codeIataCity": "AAL",
+        "codeIso2Country": "DK",
+        "geonameId": 2624886,
+        "latitudeCity": 57.028811,
+        "longitudeCity": 9.917771,
+        "nameCity": "Aalborg",
+        "timezone": "Europe/Copenhagen"
+    }
+]

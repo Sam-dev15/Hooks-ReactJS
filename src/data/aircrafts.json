@@ -1,0 +1,47 @@
+[
+    {
+        "codeIataAircraft": "100",
+        "nameAircraft": "Fokker 100",
+        "planeTypeId": 1
+    },
+    {
+        "codeIataAircraft": "141",
+        "nameAircraft": "British Aerospace BAe 146-100",
+        "planeTypeId": 2
+    },
+    {
+        "codeIataAircraft": "142",
+        "nameAircraft": "British Aerospace BAe 146-200",
+        "planeTypeId": 3
+    },
+    {
+        "codeIataAircraft": "143",
+        "nameAircraft": "British Aerospace BAe 146-300",
+        "planeTypeId": 4
+    },
+    {
+        "codeIataAircraft": "146",
+        "nameAircraft": "British Aerospace BAe 146",
+        "planeTypeId": 5
+    },
+    {
+        "codeIataAircraft": "14F",
+        "nameAircraft": "British Aerospace BAe 146 Freighter",
+        "planeTypeId": 6
+    },
+    {
+        "codeIataAircraft": "14X",
+        "nameAircraft": "British Aerospace BAe 146-100QT/QC",
+        "planeTypeId": 7
+    },
+    {
+        "codeIataAircraft": "14Y",
+        "nameAircraft": "British Aerospace BAe 146-200QT/QC",
+        "planeTypeId": 8
+    },
+    {
+        "codeIataAircraft": "14Z",
+        "nameAircraft": "British Aerospace BAe 146-300QT/QC",
+        "planeTypeId": 9
+    }
+]

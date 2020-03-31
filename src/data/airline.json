@@ -1,0 +1,18 @@
+[
+    {
+        "ageFleet": 7.4,
+        "airlineId": 140,
+        "callsign": "VIRGIN",
+        "codeHub": "LHR",
+        "codeIataAirline": "VS",
+        "codeIcaoAirline": "VIR",
+        "codeIso2Country": "GB",
+        "founding": 1984,
+        "iataPrefixAccounting": "932",
+        "nameAirline": "Virgin Atlantic",
+        "nameCountry": "United Kingdom",
+        "sizeAirline": 39,
+        "statusAirline": "active",
+        "type": "scheduled"
+    }
+]

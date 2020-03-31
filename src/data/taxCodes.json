@@ -1,0 +1,57 @@
+[
+    {
+        "codeIataTax": "AB",
+        "nameTax": "Government Tax",
+        "taxId": 1
+    },
+    {
+        "codeIataTax": "AC",
+        "nameTax": "Value Added Tax",
+        "taxId": 2
+    },
+    {
+        "codeIataTax": "AE",
+        "nameTax": "Passenger Service Charge (International)",
+        "taxId": 3
+    },
+    {
+        "codeIataTax": "AF",
+        "nameTax": "Airport Departure Fee (Domestic/International)",
+        "taxId": 4
+    },
+    {
+        "codeIataTax": "AG",
+        "nameTax": "Ticket Tax",
+        "taxId": 5
+    },
+    {
+        "codeIataTax": "AH",
+        "nameTax": "Airport Tax",
+        "taxId": 6
+    },
+    {
+        "codeIataTax": "AI",
+        "nameTax": "Baggage Security Screening Fee",
+        "taxId": 7
+    },
+    {
+        "codeIataTax": "AJ",
+        "nameTax": "Airport Exit Tax (International)",
+        "taxId": 8
+    },
+    {
+        "codeIataTax": "AK",
+        "nameTax": "Airport Departure Tax (International)",
+        "taxId": 9
+    },
+    {
+        "codeIataTax": "AL",
+        "nameTax": "Passenger Service Charge (Domestic/International)",
+        "taxId": 10
+    },
+    {
+        "codeIataTax": "AM",
+        "nameTax": "Tax",
+        "taxId": 11
+    }
+]
